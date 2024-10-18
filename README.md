@@ -1,5 +1,5 @@
 # A08-Analysis-of-COVID-Hospital-Admission-and-General-Hospital-Particulars-individual-submission
-BA780 team project individual submission
+BA780 team project individual submission -- Huawan Zhong
 
 ## Contributors
 - Huawan Zhong
